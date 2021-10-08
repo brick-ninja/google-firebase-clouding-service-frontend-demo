@@ -6,11 +6,11 @@ You can get the notification or push notification using google chrome or firefox
 ## Installation
 
 
-
-```bash
 before running this project, please create firebase project and copy project info and replace it 'src/firebase.js' 
 and in public folder you can see one file that contains the init info.
 
+
+```bash
 yarn install
 yarn start
 ```
